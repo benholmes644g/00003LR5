@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context="com.chatt.Login"
+    android:fillViewport="true">
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/pad_20dp"
+        android:paddingLeft="@dimen/pad_15dp"
+        android:paddingRight="@dimen/pad_15dp"
+        android:paddingTop="@dimen/pad_20dp" >
+
+
+
+
+        <!--<Button-->
+            <!--android:id="@+id/btnReg"-->
+            <!--style="@style/btn_white_large"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="@string/register" />-->
+
+        <ImageView
+            android:id="@+id/logo"
+            android:layout_width="282dp"
+            android:layout_height="163dp"
+            android:src="@drawable/circ"
+            android:layout_gravity="center_horizontal|top"
+            android:layout_weight="0.36"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+
+
+        <ImageView
+            android:id="@+id/logotext"
+            android:layout_width="182dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/logotext"
+            android:layout_gravity="center"
+            android:layout_weight="0.36"
+            android:layout_below="@+id/logocenter"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="50dp" />
+
+        <Button
+            android:id="@+id/btnLogin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:padding="@dimen/pad_5dp"
+            android:text="@string/log_in"
+            android:textColor="@color/main_color_green"
+            android:textSize="@dimen/txt_18sp"
+            android:textStyle="bold"
+            android:layout_gravity="center_horizontal|bottom"
+            android:layout_marginTop="69dp"
+            android:layout_below="@+id/editText2"
+            android:layout_centerHorizontal="true" />
+
+        <ImageView
+            android:id="@+id/logocenter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/tranround"
+            android:layout_gravity="center"
+
+
+            android:layout_marginTop="57dp"
+
+            android:layout_centerInParent="@+id/logotext"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+
+        <EditText
+            android:id="@+id/editText2"
+            style="@style/editext_graybg"
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+            android:drawableLeft="@drawable/ic_pwd"
+            android:hint="@string/password"
+            android:inputType="textPassword"
+            android:layout_gravity="center_horizontal|bottom"
+            android:layout_marginTop="134dp"
+            android:layout_below="@+id/logotext"
+            android:layout_alignLeft="@+id/editText1"
+            android:layout_alignStart="@+id/editText1">
+        </EditText>
+
+        <EditText
+            android:id="@+id/editText1"
+            style="@style/editext_graybg"
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+            android:drawableLeft="@drawable/ic_username"
+            android:hint="@string/email"
+            android:layout_gravity="center_horizontal|bottom"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true">
+
+            <requestFocus />
+        </EditText>
+
+        <!--<Button-->
+            <!--android:id="@+id/btnForgot"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:background="@color/white"-->
+            <!--android:padding="@dimen/pad_5dp"-->
+            <!--android:text="@string/forgot_my_pwd"-->
+            <!--android:textColor="@color/main_color_gray_dk"-->
+            <!--android:textSize="@dimen/txt_14sp" />-->
+
+    </RelativeLayout>
+
+
+</ScrollView>
+

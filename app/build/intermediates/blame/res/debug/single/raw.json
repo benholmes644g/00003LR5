@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/Rathore/Desktop/Chatt 2 2/app/build/intermediates/res/merged/debug/raw/french.mp3",
+        "source": "/Users/Rathore/Desktop/Chatt 2 2/app/src/main/res/raw/french.mp3"
+    },
+    {
+        "merged": "/Users/Rathore/Desktop/Chatt 2 2/app/build/intermediates/res/merged/debug/raw/spanish.mp3",
+        "source": "/Users/Rathore/Desktop/Chatt 2 2/app/src/main/res/raw/spanish.mp3"
+    },
+    {
+        "merged": "/Users/Rathore/Desktop/Chatt 2 2/app/build/intermediates/res/merged/debug/raw/english.mp3",
+        "source": "/Users/Rathore/Desktop/Chatt 2 2/app/src/main/res/raw/english.mp3"
+    }
+]

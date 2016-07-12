@@ -1,0 +1,178 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* doc/
+* doc/allclasses-frame.html
+* doc/allclasses-noframe.html
+* doc/com/
+* doc/com/chatt/
+* doc/com/chatt/BuildConfig.html
+* doc/com/chatt/Login.html
+* doc/com/chatt/MainActivity.html
+* doc/com/chatt/NewChat.html
+* doc/com/chatt/R.attr.html
+* doc/com/chatt/R.color.html
+* doc/com/chatt/R.dimen.html
+* doc/com/chatt/R.drawable.html
+* doc/com/chatt/R.html
+* doc/com/chatt/R.id.html
+* doc/com/chatt/R.layout.html
+* doc/com/chatt/R.menu.html
+* doc/com/chatt/R.string.html
+* doc/com/chatt/R.style.html
+* doc/com/chatt/SplashScreen.html
+* doc/com/chatt/class-use/
+* doc/com/chatt/class-use/BuildConfig.html
+* doc/com/chatt/class-use/Login.html
+* doc/com/chatt/class-use/MainActivity.html
+* doc/com/chatt/class-use/NewChat.html
+* doc/com/chatt/class-use/R.attr.html
+* doc/com/chatt/class-use/R.color.html
+* doc/com/chatt/class-use/R.dimen.html
+* doc/com/chatt/class-use/R.drawable.html
+* doc/com/chatt/class-use/R.html
+* doc/com/chatt/class-use/R.id.html
+* doc/com/chatt/class-use/R.layout.html
+* doc/com/chatt/class-use/R.menu.html
+* doc/com/chatt/class-use/R.string.html
+* doc/com/chatt/class-use/R.style.html
+* doc/com/chatt/class-use/SplashScreen.html
+* doc/com/chatt/custom/
+* doc/com/chatt/custom/CustomActivity.html
+* doc/com/chatt/custom/CustomFragment.html
+* doc/com/chatt/custom/class-use/
+* doc/com/chatt/custom/class-use/CustomActivity.html
+* doc/com/chatt/custom/class-use/CustomFragment.html
+* doc/com/chatt/custom/package-frame.html
+* doc/com/chatt/custom/package-summary.html
+* doc/com/chatt/custom/package-tree.html
+* doc/com/chatt/custom/package-use.html
+* doc/com/chatt/model/
+* doc/com/chatt/model/ChatItem.html
+* doc/com/chatt/model/Conversation.html
+* doc/com/chatt/model/Data.html
+* doc/com/chatt/model/class-use/
+* doc/com/chatt/model/class-use/ChatItem.html
+* doc/com/chatt/model/class-use/Conversation.html
+* doc/com/chatt/model/class-use/Data.html
+* doc/com/chatt/model/package-frame.html
+* doc/com/chatt/model/package-summary.html
+* doc/com/chatt/model/package-tree.html
+* doc/com/chatt/model/package-use.html
+* doc/com/chatt/package-frame.html
+* doc/com/chatt/package-summary.html
+* doc/com/chatt/package-tree.html
+* doc/com/chatt/package-use.html
+* doc/com/chatt/ui/
+* doc/com/chatt/ui/AboutChat.html
+* doc/com/chatt/ui/ChatList.ChatAdapter.html
+* doc/com/chatt/ui/ChatList.html
+* doc/com/chatt/ui/GroupChat.ChatAdapter.html
+* doc/com/chatt/ui/GroupChat.html
+* doc/com/chatt/ui/LeftNavAdapter.html
+* doc/com/chatt/ui/NoteList.NoteAdapter.html
+* doc/com/chatt/ui/NoteList.html
+* doc/com/chatt/ui/ProjectList.NoteAdapter.html
+* doc/com/chatt/ui/ProjectList.html
+* doc/com/chatt/ui/class-use/
+* doc/com/chatt/ui/class-use/AboutChat.html
+* doc/com/chatt/ui/class-use/ChatList.ChatAdapter.html
+* doc/com/chatt/ui/class-use/ChatList.html
+* doc/com/chatt/ui/class-use/GroupChat.ChatAdapter.html
+* doc/com/chatt/ui/class-use/GroupChat.html
+* doc/com/chatt/ui/class-use/LeftNavAdapter.html
+* doc/com/chatt/ui/class-use/NoteList.NoteAdapter.html
+* doc/com/chatt/ui/class-use/NoteList.html
+* doc/com/chatt/ui/class-use/ProjectList.NoteAdapter.html
+* doc/com/chatt/ui/class-use/ProjectList.html
+* doc/com/chatt/ui/package-frame.html
+* doc/com/chatt/ui/package-summary.html
+* doc/com/chatt/ui/package-tree.html
+* doc/com/chatt/ui/package-use.html
+* doc/com/chatt/utils/
+* doc/com/chatt/utils/TouchEffect.html
+* doc/com/chatt/utils/class-use/
+* doc/com/chatt/utils/class-use/TouchEffect.html
+* doc/com/chatt/utils/package-frame.html
+* doc/com/chatt/utils/package-summary.html
+* doc/com/chatt/utils/package-tree.html
+* doc/com/chatt/utils/package-use.html
+* doc/constant-values.html
+* doc/deprecated-list.html
+* doc/help-doc.html
+* doc/index-files/
+* doc/index-files/index-1.html
+* doc/index-files/index-10.html
+* doc/index-files/index-11.html
+* doc/index-files/index-12.html
+* doc/index-files/index-13.html
+* doc/index-files/index-14.html
+* doc/index-files/index-15.html
+* doc/index-files/index-16.html
+* doc/index-files/index-17.html
+* doc/index-files/index-18.html
+* doc/index-files/index-19.html
+* doc/index-files/index-2.html
+* doc/index-files/index-3.html
+* doc/index-files/index-4.html
+* doc/index-files/index-5.html
+* doc/index-files/index-6.html
+* doc/index-files/index-7.html
+* doc/index-files/index-8.html
+* doc/index-files/index-9.html
+* doc/index.html
+* doc/overview-frame.html
+* doc/overview-summary.html
+* doc/overview-tree.html
+* doc/package-list
+* doc/resources/
+* doc/resources/background.gif
+* doc/resources/tab.gif
+* doc/resources/titlebar.gif
+* doc/resources/titlebar_end.gif
+* doc/stylesheet.css
+* javadoc.xml
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:18.0.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* assets/ => app/src/main/assets
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
